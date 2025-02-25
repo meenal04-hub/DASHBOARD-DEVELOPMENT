@@ -14,7 +14,7 @@
 
 **DESCRIPTION**: 
 
-**Twitter Sentiment Analysis Dashboard**
+# Twitter Sentiment Analysis Dashboard
 
 **Introduction**
 
