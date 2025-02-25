@@ -66,21 +66,15 @@ To better understand the dataset, visualizations were created using Tableau and 
 
 * Tableau → For interactive visualizations and dashboard creation.
 
-**How to Use**
+**TABLEAU DASHBOARD**
 
-Clone this repository:
+![Image](https://github.com/user-attachments/assets/7495aa24-e7bf-41c5-9bfb-b34c55199d86)
 
-* git clone 
-
-* Open and run the Jupyter notebook in Google Colab.
-
-* Use Tableau to explore the interactive visualizations.
-
-Contribution
+**Contribution**
 
 Contributions are welcome! Feel free to submit a pull request for improvements or additional features.
 
-License
+**License**
 
-This project is open-source and available under the MIT License.
-![Image](https://github.com/user-attachments/assets/7495aa24-e7bf-41c5-9bfb-b34c55199d86)
+This project is open-source and available under the @MIT License.
+
